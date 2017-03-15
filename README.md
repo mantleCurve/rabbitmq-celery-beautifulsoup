@@ -1,4 +1,7 @@
-# Aduratio
+# RabbitMQ - Celery - Beautifulsoup 
+
+Distributed scrapping
+--
 
 Getting started
 --
